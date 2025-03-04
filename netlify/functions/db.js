@@ -14,7 +14,10 @@ exports.handler = async function(event, context) {
         { id: '4', marca: 'Grand Cheroke', modelo: 'Jeep', ano: '2024', precio: '150000'},
         { id: '5', marca: 'Grand Marquiz', modelo: 'Crown Victoria', ano: '1995', precio: '14000'},
         { id: '6', marca: 'Nuevo carro', modelo: 'Crown Victoria', ano: '1995', precio: '14000'},
-        { id: '7', marca: 'Chrysler', modelo: '300ZR', ano: '2024', precio: '850000'}
+        { id: '7', marca: 'Chrysler', modelo: '300ZR', ano: '2024', precio: '850000'},
+        { id: '8', marca: 'BMW', modelo: 'Serie 3', ano: '2024', precio: '93560'},
+        { id: '9', marca: 'Audi', modelo: 'A4', ano: '2025', precio: '125000'},
+        { id: '10', marca: 'Mercedes Benz', modelo: 'Clase C', ano: '2019', precio: '65700'}
       ]
     }),
   };
